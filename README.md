@@ -7,6 +7,7 @@ I connect marketing spend to revenue — through data pipelines, attribution mod
 > **heads up:** this is my 2nd account — the previous one got blocked and deleted.  
 > I managed to recover a few projects from what I had on disk, but not everything, so the account might look a bit odd.  
 > There's also a couple of personal half-finished scripts I tossed in here. it is what it is.
+> 
 > ![rip](https://raw.githubusercontent.com/Astoriel/Astoriel.github.io/main/rip/achivements.rip.jpg)
 
 ---
